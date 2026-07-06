@@ -8,7 +8,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-image: url("img/fundo.avif");
+  background-image: url("img/fnd.avif");
 }
 .cabecalho {
   background-color: #7e3e1c;
