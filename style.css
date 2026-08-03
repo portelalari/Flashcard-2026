@@ -6,12 +6,12 @@
 
 body {
   display: flex;
-  flex-direction: column;
+  flex-direction: co7e3e1clumn;
   min-height: 100vh;
   background-image: url("img/vede.avif");
 }
 .cabecalho {
-  background-color: #7e3e1c;
+  background-color: #055668;
   padding: 15px 25px;
   display: flex;
   justify-content: space-between;
@@ -19,7 +19,7 @@ body {
 }
 
 .cabecalho-link {
-  color: #fff;
+  color: #ffffff;
   text-decoration: none;
 }
 
